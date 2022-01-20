@@ -6,7 +6,10 @@ $username = "root";
 $password = "";
 $dbname = "covid19";
 
-// Create and check connection
+/* Create and check connection ( object oriented types)
+* maak van de PDO class een new object door PDO() extension/methode met de opgegeven gegevens
+*
+*/
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -17,7 +20,7 @@ catch(PDOException $e) {
 
 //define and execute query
 $sql = "select * from gemeente";
-$result = $conn->query($sql);
+$result = $conn->query($sql);   //result is ook object
 
 print "<table>";
 

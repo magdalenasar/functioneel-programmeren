@@ -8,19 +8,19 @@
 
     <!--security-->
     <input type="hidden" name="csrf" value="@csrf_token@">
-    <p><small>@csrf_token@</small></p>
+    <!-- <p><small>@csrf_token@</small></p>-->
     <!--end security-->
 
     <div class="form-group row">
-        <label for="img_id" class="col-sm-4 col-form-label">Id</label>
+        <label for="usr_voornaam" class="col-sm-4 col-form-label">Voornaam</label>
         <div class="col-sm-8">
-            <input type="text" readonly class="form-control-plaintext" id="img_id" name="img_id" value="@img_id@">
-            @img_id_error@
+            <input type="text" readonly class="form-control-plaintext" id="usr_voornaam" name="usr_voornaam" value="@usr_voornaam@">
+            @usr_voornaam_error@
         </div>
     </div>
 
     <div class="form-group row">
-        <label for="img_title" class="col-sm-4 col-form-label">Title</label>
+        <label for="usr_" class="col-sm-4 col-form-label">Title</label>
         <div class="col-sm-8">
             <input type="text" class="form-control-plaintext" id="img_title" name="img_title" value="@img_title@">
             @img_title_error@
