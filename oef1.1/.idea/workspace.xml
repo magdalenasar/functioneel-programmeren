@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c7156c9-7830-4a58-8355-67ace4cdaf87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../oef3.2/dropdown_selection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/boot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/form1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/mysqli.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/no_access.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/prepared.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/save.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/security.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/examples/select.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/images/berlin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/images/boom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/images/london.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/images/paris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef1.1/student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef1.2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef1.2/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.1/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.1/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.1/stad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.1/steden.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.1/steden2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/html_components.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/stad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/steden.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/steden2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/templates/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/oef2.2/templates/jumbo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_functioneel-programmeren/testmap/config.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="22aZ4FBELpr9GXoJTzkwKj4SYCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7156c9-7830-4a58-8355-67ace4cdaf87" name="Changes" comment="" />
+      <created>1640077464332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640077464332</updated>
+      <workItem from="1640077466924" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
