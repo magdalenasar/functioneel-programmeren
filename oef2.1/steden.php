@@ -34,7 +34,7 @@
         //we need data from the database, so...
         require_once "database.php";
 
-        $rows = GetData( "select * from image" );
+        $rows = GetData( "select * from images" );
 
         //loop over de afbeeldingen
         foreach ( $rows as $row )

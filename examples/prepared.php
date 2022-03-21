@@ -23,7 +23,7 @@ if ( ! is_numeric($_GET['id']))
 }
 
 //prepare statement
-$sql = "SELECT * FROM image WHERE img_id=?";
+$sql = "SELECT * FROM images WHERE img_id=?";
 $stmt = $conn->prepare($sql);
 
 if ( $stmt == false ){

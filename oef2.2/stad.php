@@ -13,7 +13,7 @@ PrintJumbo( $title = "Detail van een stad (stad.php)", $subtitle = "");
         //we need data from the database, so...
         require_once "database.php";
 
-        $rows = GetData( 'SELECT * from image WHERE img_id=' . $_GET["img_id"] );
+        $rows = GetData( 'SELECT * from images WHERE img_id=' . $_GET["img_id"] );
 
         //hoewel er maar 1 rij is, kunnen we hier ook een foreach gebruiken...
         foreach ( $rows as $row )

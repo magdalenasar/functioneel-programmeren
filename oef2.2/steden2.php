@@ -14,7 +14,7 @@ PrintJumbo( $title = "Erg leuke plekken in Europa (steden2.php)",
         require_once "database.php";
 
         //alle records ophalen
-        $rows = GetData( "select * from image" );
+        $rows = GetData( "select * from images" );
 
         //loop over de afbeeldingen
         foreach ( $rows as $row )
